@@ -1,0 +1,8 @@
+{
+  "name": "PCSC ",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "18ae5850"
+}
